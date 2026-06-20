@@ -79,7 +79,6 @@ This project manages its virtual environment and dependencies seamlessly using *
    ```
 3. **Configure Environment Variables:**
    Create a `.env` file in the root directory and append your Gemini API Key:
-   **مقتطف الرمز**
 
    ```
    GEMINI_API_KEY=AIzaSyYourActualAPIKeyHere
