@@ -13,19 +13,19 @@ Powered by **Gemini 2.5 Flash** (2026 Google GenAI SDK),  **Streamlit** , and a 
 
 Authentication enforced at startup — verifies identity and maps user permissions before granting access.
 
-![Authentication Gateway](https://claude.ai/chat/login.png)
+![Authentication Gateway](login.png)
 
 ### 2. Admin Workspace (Full Access)
 
 Administrators get read, write, update, and delete capabilities, including a live row-preview slider and direct database modification panels.
 
-![Admin Dashboard](https://claude.ai/chat/admin.png)
+![Admin Dashboard](admin.png)
 
 ### 3. Standard User Workspace (Read-Only)
 
 Employees access a restricted analytical viewport. All destructive operations are blocked at both the UI and LLM prompt layers.
 
-![User Dashboard](https://claude.ai/chat/user.png)
+![User Dashboard](user.png)
 
 ---
 
