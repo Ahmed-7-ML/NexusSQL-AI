@@ -34,7 +34,7 @@ if not st.session_state.logged_in:
 st.markdown(
     f"""
     <div style="background-color:#1E293B; padding:15px; border-radius:10px; margin-bottom:25px; display: flex; justify-content: space-between; align-items: center;">
-        <div style="color:#F8FAFC; font-size: 24px; font-weight: bold;">🗄️ Text-to-SQL AI Engine</div>
+        <div style="color:#F8FAFC; font-size: 24px; font-weight: bold;">🗄️ NexusSQL AI Engine</div>
         <div style="color:#94A3B8; font-size: 16px;">
             👤 User: <b>{st.session_state.username}</b> | 🛡️ Access Level: <span style="color:#10B981; font-weight:bold;">{st.session_state.role.upper()}</span>
         </div>
